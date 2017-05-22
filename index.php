@@ -97,10 +97,6 @@
             });
         });
     </script>
-    <div class="container-fluid bg-primary">
-        <div class="row col-md-12">
-              <h3><center></center></h3>  
-        </div>
-    </div>
+   
 </body>
 </html>
